@@ -1,2 +1,2 @@
-# basic-line-follow-robot-
-line follow robot with 3 sensors with ardiuno 
+# basic-line-follow-robot
+Line follower Robot with Three sensors with ardiuno 
